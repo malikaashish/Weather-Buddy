@@ -1,29 +1,35 @@
-Weather Buddy
+#  Weather Buddy
 
-Weather Buddy is a responsive and user-friendly weather web application that shows real-time weather information based on the user’s current location or searched city.
+**Weather Buddy** is a responsive and user-friendly weather web application that provides real-time weather information based on the user’s **current location** or a **searched city**.
 
-Features
-- Live weather detection using browser geolocation
-- Hourly and 7-day weekly weather forecast
-- Displays temperature, humidity, wind speed, visibility, UV index, and sunrise/sunset
-- Supports Celsius and Fahrenheit units
-- Dynamic background based on weather conditions
-- Search weather by city name
+##  Live Demo
 
-Technologies Used
-- HTML5
-- CSS3
-- JavaScript (Vanilla JS)
-- Open-Meteo Weather API
-- Open-Meteo Geocoding API
-- Browser Geolocation API
+ **Website:**  
+https://weather-buddy-two.vercel.app/
 
-Auto Location Detection
-Weather Buddy automatically detects the user’s location (with permission) and displays accurate weather data. If location access is denied, it falls back to a default city.
 
-Live Demo
+##  Features
 
-Screenshots
+-  Live weather detection using **browser geolocation**
+-  **Hourly** and **7-day weekly** weather forecast
+-  Displays temperature, humidity, wind speed, visibility, UV index, and sunrise/sunset
+-  Supports **Celsius (°C)** and **Fahrenheit (°F)**
+-  Dynamic background based on weather conditions
+-  Search weather by city name
+
+
+## Technologies Used
+
+- **HTML5**
+- **CSS3**
+- **JavaScript**
+- **Open-Meteo Weather API**
+- **Open-Meteo Geocoding API**
+
+
+## Screenshots
+
+
 
 <img width="1920" height="1080" alt="Screenshot (213)" src="https://github.com/user-attachments/assets/b2971148-cd09-4576-997a-c2f65786352f" />
 
